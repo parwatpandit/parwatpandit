@@ -1,8 +1,9 @@
 # Hi, I'm Parwat 👋
 
-###Passionate about building things that actually work in production — not just on localhost.
-I design and ship full stack systems across Fintech, Healthcare, and Logistics, with real infrastructure: cloud deployments, ML models, message queues, WebSockets, and JWT auth — all live on AWS.
-Based in London. Open to Software Engineering roles.
+Passionate about building things that actuall work in production, not just on localhose.
+I design and ship full stack system across Fintech, Healthcare, and Logistic, with real infrastructure: cloud deployments, Ml models, message queues, WebSocket, and JWT auth - all live on AWS.
+Based in London. Open to Software Engineering role.
+
 ---
 
 ## 🚀 What I'm Building
