@@ -1,11 +1,8 @@
 # Hi, I'm Parwat 👋
 
-I'm a Computing System student at Ulster University London, building production-grade full stack systems from the ground up. I don't just follow tutorials — I architect real systems with real infrastructure: JWT auth, ML models, cloud deployments, message queues, WebSockets, and more.
-
-Right now I'm focused on three industry-grade projects across Fintech, Healthcare, and Logistics — each one designed to solve real problems the way companies like Monzo, Babylon Health, and Ocado actually do it.
-
-I'm actively looking for **Software Engineering roles in London** where I can contribute from day one.
-
+Passionate about building things that actually work in production — not just on localhost.
+I design and ship full stack systems across Fintech, Healthcare, and Logistics, with real infrastructure: cloud deployments, ML models, message queues, WebSockets, and JWT auth — all live on AWS.
+Based in London. Open to Software Engineering roles.
 ---
 
 ## 🚀 What I'm Building
