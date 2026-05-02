@@ -14,7 +14,7 @@ Based in London. Open to Software Engineering role.
 
 A full stack banking system running live in production on AWS. Built with real banking concepts — idempotency keys, real-time balance updates via WebSocket, ML-powered fraud detection using Random Forest + SMOTE, rate limiting, and an admin dashboard. Deployed with Docker and Kubernetes on EC2.
 
-🔗 [Live API Docs](http://18.130.226.110:8000/docs) · [GitHub](https://github.com/parwatpandit/SentinelLedger)
+🔗 [Live](http://sentinelledger-frontend.s3-website.eu-west-2.amazonaws.com) | [GitHub](https://github.com/parwatpandit/SentinelLedger)
 
 ---
 
@@ -23,12 +23,17 @@ A full stack banking system running live in production on AWS. Built with real b
 
 A healthcare platform covering patient registration, doctor profiles, appointment booking, digital prescriptions, lab results, automated email reminders via Celery, PDF invoice generation, and an emergency alert system. Includes ML models for disease risk prediction and appointment no-show prediction.
 
+🔗 [GitHub](https://github.com/parwatpandit/healthcore-backend) | 
+   [GitHub](https://github.com/parwatpandit/healthcore-frontend)
+
 ---
 
-### 📦 LogiTrack — Supply Chain & Delivery Tracking *(Coming Soon)*
+### 📦 FluxHaul — Supply Chain & Delivery Tracking *(Coming Soon)*
 > Node.js · Express · MongoDB · Socket.io · Bull Queue · React · AWS · ML
 
 A logistics platform with real-time delivery tracking, route optimisation, warehouse and inventory management, automated stock alerts, and ML-powered delay prediction and demand forecasting.
+
+🔗 [GitHub](https://github.com/parwatpandit/fluxhaul)
 
 ---
 
